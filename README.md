@@ -17,7 +17,7 @@
 **VPS WALLET:**
 
 1. After you longin on your VPS , with this command you will download masternode-installer.   
-`wget `  
+`wget masternode-install.sh `  
 - For Ubuntu 18.04 + use this one command   
 `wget https://raw` 
 
@@ -85,13 +85,13 @@ Example output
 
 Modify the following line in your masternode.conf file and paste it into:
 ```
-MN1 VPSIP:5727 7VatfYVk5fFMTymPDhgSURAESDACJhWpd89WHGoh35d9fbLQPj5 506a242ccbfd2555bcd9cff5f4041752c911f39cb2905acc83ccfe0cf8808df9 1
+MN1 VPSIP:22190 7VatfYVk5fFMTymPDhgSURAESDACJhWpd89WHGoh35d9fbLQPj5 506a242ccbfd2555bcd9cff5f4041752c911f39cb2905acc83ccfe0cf8808df9 1
 ```
 MN1 - Alias for your masternode.
 
 VPSIP- External IP address of your VPS.
 
-5727 - The port for PIGGIE
+22190 - The port for PIGGIE
 
 7VatfYVk5fFMTymPDhgSURAESDACJhWpd89WHGoh35d9fbLQPj5 - Masternode private key from the command “createmasternodekey”.
 
