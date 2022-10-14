@@ -5,7 +5,7 @@
 1. PIGGIE for Collateral <br>
 (You can buy PIGGIE from exchange for collateral) <br>
 
-•https://graviex.net/markets/piggiebtc<br>***
+•https://graviex.net/markets/piggiebtc
 
 
 2. Download your Local Wallet: https://github.com/piggiesbank/wallets/releases
