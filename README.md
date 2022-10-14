@@ -19,7 +19,7 @@
 1. After you longin on your VPS , with this command you will download masternode-installer.   
 `wget masternode-install.sh `  
 - For Ubuntu 18.04 + use this one command   
-`wget https://raw` 
+`wget https://raw.githubusercontent.com/piggiesbank/mnsetup/master/masternode-install.sh` 
 
 2. With this command you will make 
 
