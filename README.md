@@ -7,9 +7,7 @@
 
 •https://graviex.net/markets/piggiebtc
 
-
-2. Download your Local Wallet: https://github.com/piggiesbank/wallets/releases
-
+2. Download your Local Wallet: https://github.com/Masternodesguru/piggie/releases/download/1001/piggie-1001-linux.zip
 
 3. You will need also VPS with Ubuntu  18.04
 
@@ -19,7 +17,7 @@
 1. After you longin on your VPS , with this command you will download masternode-installer.   
 `wget masternode-install.sh `  
 - For Ubuntu 18.04 + use this one command   
-`wget https://raw.githubusercontent.com/piggiesbank/mnsetup/master/masternode-install.sh` 
+`wget https://raw.githubusercontent.com/masternodesguru/piggie-mnsetup/master/masternode-install.sh` 
 
 2. With this command you will make 
 
