@@ -15,13 +15,13 @@
 **VPS WALLET:**
 
 1. After you longin on your VPS , with this command you will download masternode-installer.   
-`wget masternode-install.sh `  
-- For Ubuntu 18.04 + use this one command   
+ 
+- dl the install script 
 `wget https://raw.githubusercontent.com/masternodesguru/piggie-mnsetup/master/masternode-install.sh` 
 
-2. With this command you will make 
+2. With this command you will need to change permission 
 
-- For Ubuntu 18.04+ use this: <br>
+- change permission: <br>
 `sudo chmod +x masternode-install.sh` <br>
 
 3. Now install your masternode.  
